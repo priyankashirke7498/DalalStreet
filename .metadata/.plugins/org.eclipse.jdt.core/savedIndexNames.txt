@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Admin\Desktop\Github Repository\DalalStreet\.metadata\.plugins\org.eclipse.jdt.core
+605813910.index
+1372677264.index
+2821983007.index
+2280419481.index
+2834169729.index
+3961414876.index
+3062912904.index
